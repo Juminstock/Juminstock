@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋, I'm Carlos Rodríguez, but on Internet, I'm Juminstock 🧑‍💻.
+
+I'm a JavaScript and Solidity developer. I use many technologies like React.
 
 <!--
 **Juminstock/Juminstock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
