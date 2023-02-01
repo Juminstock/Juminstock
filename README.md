@@ -1,9 +1,6 @@
 ### Hello there 👋, I'm Carlos Rodríguez, but on Internet, I'm Juminstock 🧑‍💻.
 
-I'm a JavaScript and Solidity developer.
-JavaScript and Solidity developer dedicated to the creation of interactivity, dynamism and user interfaces in web pages, mobile applications, creation of decentralized applications (DApps), smart contracts and infrastructure development on centralized servers and on the blockchain. Lover of science, technology and learning.
-
-Co-Founder at Dotlabs(), a great project dedicated to teaching Solidity, Rust, Sway and other technologies to build on Web3.
+I'm a JavaScript and Solidity developer dedicated to the creation of interactivity, dynamism and user interfaces in web pages, mobile applications, creation of decentralized applications (DApps), smart contracts and infrastructure development on centralized servers and on the blockchain. Lover of science, technology and learning.
 
 He excels in the use of technologies such as: JavaScript, TypeScript, React, React native, Node, Next, Astro, Solidity, Rust, Sway, HardHat, Git and Github. In addition, he has knowledge in the development of agile methodologies (Scrum), efficient methodologies, collaborative development and management of technological teams. Normally he creates solutions in a working environment based on Linux, but he is capable of adapting to any environment depending on the requirements of the functions to be executed.
 
