@@ -1,11 +1,8 @@
 # ![](https://drive.google.com/file/d/1yRTjGvBvihqd17NPys-CkaqhqWIwCmKS/view?usp=sharing) Hello there! 👋
-### I'm Carlos Rodríguez, but on Internet, I'm Juminstock 🧑‍💻.
+## I'm Carlos Rodríguez, but on Internet, I'm Juminstock 🧑‍💻.
+I am a JavaScript and Solidity developer 🪐.
 
-### I am a JavaScript and Solidity developer 🪐.
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
