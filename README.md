@@ -1,6 +1,6 @@
 # Hello there! 👋, I'm Juminstock 🦅.
 My name is Carlos Rodríguez, but on internet, I'm Juminstock 🧑‍💻.
-![https://github.com/juminstock](https://ibb.co/2k7rfVY)
+![https://github.com/juminstock](https://raw.githubusercontent.com/juminstock/juminstock/main/1.png)
 ![https://github.com/juminstock](https://ibb.co/0VG2YCj)
 ![https://github.com/juminstock](https://ibb.co/kxS1zVj)
 ## 🚀 I'm a JavaScript and Solidity Fullstack developer
