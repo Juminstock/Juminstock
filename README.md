@@ -5,7 +5,7 @@ I am a JavaScript and Solidity Fullstack developer. I work on frontend and backe
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, TypeScript, React, React native, Node, Next, Astro, Solidity, Rust, Sway, HardHat, Git and Github. Also, Linux, Figma, Discord, Telegram, Notion and Visual Studio Code.
+HTML, CSS, JavaScript, TypeScript, React, React native, Node, Next, Astro, Solidity, HardHat, Git and Github. Also, Linux, Figma, Discord, Telegram, Notion and Visual Studio Code.
 
 
 ## 🔗 Links
