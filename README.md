@@ -1,5 +1,6 @@
 # Hello there! 👋, I'm Juminstock 🦅.
 My name is Carlos Rodríguez, but on internet, I'm Juminstock 🧑‍💻.
+
 ![https://github.com/juminstock](https://raw.githubusercontent.com/Juminstock/Juminstock/main/3.jpg)
 ## 🚀 I'm a JavaScript and Solidity Fullstack developer
 I work on frontend and backend. I create webpages, mobile applications, databases, smart contracts, DApps and protocols. I love to create smart contracts, DApps and protocols. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast.
