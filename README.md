@@ -1,18 +1,13 @@
-### Hello there 👋, I'm Carlos Rodríguez, but on Internet, I'm Juminstock 🧑‍💻.
-
-I'm a JavaScript and Solidity developer. I use many technologies like React.
-
-<!--
-**Juminstock/Juminstock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello there! 👋, I'm Juminstock 🦅.
+My name is Carlos Rodríguez, but on internet, I'm Juminstock 🧑‍💻.
+![https://github.com/juminstock](https://ibb.co/2k7rfVY)
+![https://github.com/juminstock](https://ibb.co/0VG2YCj)
+![https://github.com/juminstock](https://ibb.co/kxS1zVj)
+## 🚀 I'm a JavaScript and Solidity Fullstack developer
+I work on frontend and backend. I create webpages, mobile applications, databases, smart contracts, DApps and protocols. I love to create smart contracts, DApps and protocols. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast.
+## 🛠 Skills
+HTML, CSS, JavaScript, TypeScript, React, React native, Node, Next, Nest, Astro, Solidity, HardHat, Git and Github. Also, Linux, Figma, Discord, Telegram, Notion and Visual Studio Code.
+## 🔗 Links
+[![Personal Webpage](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juminstock.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juminstock)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juminstock)
