@@ -25,8 +25,8 @@ HTML5, CSS3, JavaScript, React.js, Node.js, Solidity, HardHat, Git and Github. A
 
 You can support my work by making a "⭐ Star" in the repository or by nominating me for a "GitHub Star". Thank you!
 
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominate_to_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 ## Support:
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/juminstock)
+[![BuyMeAPizza](https://img.shields.io/badge/Buy_Me_A_Pizza-Support_my_job-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/juminstock)
