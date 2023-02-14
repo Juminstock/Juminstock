@@ -21,7 +21,7 @@ HTML5, CSS3, JavaScript, React.js, Node.js, Solidity, HardHat, Git and Github. A
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juminstock)
 </br>
 
-#### You can support my work by making a "☆ Star" in the repository or by nominating me for a "GitHub Star". Thank you!
+## 🌟 You can support my work by making a "☆ Star" in the repository or by nominating me for a "GitHub Star". Thank you!
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
