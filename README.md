@@ -14,10 +14,13 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 </br>
 ## 🛠 Skills
 HTML5, CSS3, JavaScript, React.js, Node.js, Solidity, HardHat, Git and Github. Also, Linux, Figma, Discord, Telegram, Notion and Visual Studio Code.
+
 ## 🔗 Links
 [![Personal Webpage](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juminstock.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juminstock)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juminstock)
+</br>
+
 ####You can support my work by making a "☆ Star" in the repository or by nominating me for a "GitHub Star". Thank you!
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
