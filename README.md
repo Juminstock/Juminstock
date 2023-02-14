@@ -3,9 +3,11 @@
 
 ![https://github.com/juminstock](https://github.com/Juminstock/Juminstock/blob/main/Banner_socialNetworks.jpg)
 ## 🚀 I'm a JavaScript and Solidity developer
-I work on the Frontend and I'm to learn how to develop on the Backend. I am dedicated to creating webpages with dynamism and interactivity using JavaScript, as well as user interfaces with React.js. Also, I create smart contracts, DApps, DNFTs and protocolos. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of [**dotlabs()**](https://dotlabs-workshops-calendar.vercel.app/), a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
+
+I work on the Frontend and I'm learning how to develop on the Backend. I am dedicated to creating webpages with dynamism and interactivity using JavaScript, as well as user interfaces with React.js. Also, I create smart contracts, DApps, DNFTs and protocolos. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of [**dotlabs()**](https://dotlabs-workshops-calendar.vercel.app/), a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
 
 When I am not working, I study, read, learn, teach, give talks, conduct classes and worshops, spread valuable information and contribute to the Web3 and Web2 development communities.
+
 ## Tecnologies:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
