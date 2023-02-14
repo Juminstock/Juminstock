@@ -27,6 +27,6 @@ You can support my work by making a "⭐ Star" in the repository or by nominatin
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominate_to_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
-## Support:
+## 🤝 Support:
 
 [![BuyMeAPizza](https://img.shields.io/badge/Buy_Me_A_Pizza-Support_my_job-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/juminstock)
