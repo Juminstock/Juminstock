@@ -25,9 +25,8 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
  
  <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%" />
  <div>
- <img align="left" src="https://streak-stats.demolab.com/?user=Ajay84sia&theme=dark&hide_border=true&theme=react" width="46%" />
+ <img align="left" src="https://streak-stats.demolab.com?user=juminstock&theme=react&date_format=j%20M%5B%20Y%5D" width="46%"/>
 </div>
-<br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
