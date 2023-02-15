@@ -1,7 +1,16 @@
 <p align="center">
 <a href="https://github.com/Juminstock"><img src = "https://media4.giphy.com/media/26DoiqmYcxgFICb3G/200w.webp?cid=ecf05e47m39fqtroy6a1anuzgkjouglfpgercm3us8eskpua&rid=200w.webp&ct=g" width = 100> </a>
 </p>
-<h1 align=center><font size = 5>Hello there!, I'm Juminstock 👋.</h1><h2 align=center>My name is Carlos Rodríguez, but on internet, I'm Juminstock 🧑‍💻.</h2>
+<h1 align=center><font size = 5>Hello world! 👋.</h1><img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">
+  <h2 align=center>I am Carlos Rodríguez (Juminstock).</h2>
+  <p align='center'>
+  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+</p>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishek-00&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
+  
+  
+  
+  
 <br>
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
