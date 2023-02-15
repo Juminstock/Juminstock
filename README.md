@@ -23,8 +23,16 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="Juminstock"/></p>
-<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=juminstock&show_icons=true&locale=en" alt="juminstock" width="40%" />
+<div>
+  <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=juminstock&show_icons=true&locale=en" alt="juminstock" width="46%" />
+  <br/>
+  <br/>
+    <br/>
+  <br/>
 <img align="left" src="https://streak-stats.demolab.com?user=juminstock&theme=react&date_format=j%20M%5B%20Y%5D" width="46%"/>
+</div>
+<br/>
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
