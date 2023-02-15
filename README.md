@@ -8,34 +8,32 @@
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
   </p>
   <p align="center">
- Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="35">
- <a href="https://github.com/juminstock" target="_blank">
+    <strong>Connect with me:</strong><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="40">
+ 
+ <a href="https://www.juminstock.com"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Personal Webpage"/></a>
+    <a href="https://github.com/juminstock" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
- <a href="https://www.juminstock.com"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Personal Webpage"/></a>
   <a href="https://www.linkedin.com/in/juminstock"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/juminstock"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
  <a href="mailto:juminstock@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
   
-<p>I work on the Frontend and I'm learning how to develop on the Backend. I am dedicated to creating webpages with dynamism and interactivity using JavaScript, as well as user interfaces with React.js. Also, I create smart contracts, DApps, DNFTs and protocolos. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of [**dotlabs()**](https://dotlabs-workshops-calendar.vercel.app/), a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
+<p>I work on the Frontend and I'm learning how to develop on the Backend. I am dedicated to creating webpages with dynamism and interactivity using JavaScript, as well as user interfaces with React.js. Also, I create smart contracts, DApps, DNFTs and protocolos. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs-workshops-calendar.vercel.app/">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
 
 When I am not working, I study, read, learn, teach, give talks, conduct classes and worshops, spread valuable information and contribute to the Web3 and Web2 development communities.</p>
   
-  
-  
-  
-  
-<br>
-<p align='center'>
-&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<a href="https://github.com/Juminstock"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
-
-
-![https://github.com/juminstock](https://github.com/Juminstock/Juminstock/blob/main/Banner_socialNetworks.jpg)
-## 🚀 I'm a JavaScript and Solidity developer
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="Juminstock"/></p>
+ 
+ <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%" />
+ <div>
+ <img align="left" src="https://streak-stats.demolab.com/?user=Ajay84sia&theme=dark&hide_border=true&theme=react" width="46%" />
+</div>
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
