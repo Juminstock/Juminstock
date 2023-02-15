@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Juminstock"><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJhYTY0OTBmZTY1N2E3MzMzYjMyNDQ4NzI4ZWQ3MjJjYmVkN2M0MiZjdD1n/3o7qDPxorBbvpB1Pby/giphy.gif" width = 100></a>
+<a href="https://github.com/Juminstock"><img src = "https://media4.giphy.com/media/l0MYO6VesS7Hc1uPm/200.webp?cid=ecf05e47uf9an12qckf1omljx40m8w7d3qz3vd4e3jn8mfac&rid=200.webp&ct=g" width = 100></a>
 </p>
 <h1 align=center><font size = 5>Hello world<img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40"></h1>
   <h2 align=center>I am Carlos Rodríguez, welcome to my personal repository.</h2>
