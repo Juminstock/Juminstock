@@ -2,7 +2,7 @@
 <a href="https://github.com/Juminstock"><img src = "https://media4.giphy.com/media/l0MYO6VesS7Hc1uPm/200.webp?cid=ecf05e47uf9an12qckf1omljx40m8w7d3qz3vd4e3jn8mfac&rid=200.webp&ct=g" width = 200></a>
 </p>
 <h1 align=center><font size = 5>Hello world!<img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="60"></h1>
-  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+  <img align='center' src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
   <h2 align=center>I am Carlos Rodríguez, welcome to my personal repository.</h2>
   <p align='center'>
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
