@@ -1,15 +1,10 @@
 <p align="center">
-<a href="https://github.com/Juminstock"><img src = "./assets/ln-logo.png" width = 100> </a>
+<a href="https://github.com/Juminstock"><img src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width = 100> </a>
 </p>
-<h1 align=center><font size = 5>Hello there!, I'm Juminstock 👋.</h1><h2>My name is Carlos Rodríguez, but on internet, I'm Juminstock 🧑‍💻.</h2>
+<h1 align=center><font size = 5>Hello there!, I'm Juminstock 👋.</h1><h2 align=center>My name is Carlos Rodríguez, but on internet, I'm Juminstock 🧑‍💻.</h2>
 <br>
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/novelo-luis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  &nbsp;
-  <a href="https://platzi.com/profesores/novelonovelo/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://public.tableau.com/profile/luis.novelo6593#!/"><img src="https://img.shields.io/badge/Tableau%20Public-orange.svg?&style=for-the-badge&logo=tableau&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.youtube.com/channel/UCGHj9f_nZd7tBEf9BOJ4aXA"><img src="https://img.shields.io/badge/Youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -59,6 +54,10 @@ You can support my work by making a "⭐ Star" in the repository or by nominatin
 <a href="https://www.youtube.com/c/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juminstock" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juminstock" height="30" width="40" /></a>
 </p>
+
+
+  <a href="https://platzi.com/profesores/novelonovelo/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.youtube.com/channel/UCGHj9f_nZd7tBEf9BOJ4aXA"><img src="https://img.shields.io/badge/Youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
