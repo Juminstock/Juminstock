@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/Juminstock"><img src = "./assets/ln-logo.png" width = 100> </a>
 </p>
-<h1 align=center><font size = 5>Hello there!, I'm Juminstock 👋.<br>My name is Carlos Rodríguez, but on internet, I'm Juminstock 🧑‍💻.</font></h1>
+<h1 align=center><font size = 5>Hello there!, I'm Juminstock 👋.</h1><h2>My name is Carlos Rodríguez, but on internet, I'm Juminstock 🧑‍💻.</h2>
 <br>
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
