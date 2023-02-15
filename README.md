@@ -19,14 +19,14 @@
 <p>I work on the Frontend and I'm learning how to develop on the Backend. I am dedicated to creating webpages with dynamism and interactivity using JavaScript, as well as user interfaces with React.js. Also, I create smart contracts, DApps, DNFTs and protocolos. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs-workshops-calendar.vercel.app/">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
 
 When I am not working, I study, read, learn, teach, give talks, conduct classes and worshops, spread valuable information and contribute to the Web3 and Web2 development communities.</p>
-  
+<div id="counter">
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="Juminstock"/></p>
  <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%" />
  <img align="left" src="https://streak-stats.demolab.com?user=juminstock&theme=react&date_format=j%20M%5B%20Y%5D" width="46%"/>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+</div>
 
 
 ## Technologies:
