@@ -1,5 +1,17 @@
-# Hello there!, I'm Juminstock 👋.
-### My name is Carlos Rodríguez, but on internet, I'm Juminstock 🧑‍💻.
+<p align="center">
+<a href="https://github.com/Juminstock"><img src = "./assets/ln-logo.png" width = 100> </a>
+</p>
+<h1 align=center><font size = 5>Hello there!, I'm Juminstock 👋.<br>My name is Carlos Rodríguez, but on internet, I'm Juminstock 🧑‍💻.</font></h1>
+<br>
+<p align='center'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/novelo-luis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  &nbsp;
+  <a href="https://platzi.com/profesores/novelonovelo/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://public.tableau.com/profile/luis.novelo6593#!/"><img src="https://img.shields.io/badge/Tableau%20Public-orange.svg?&style=for-the-badge&logo=tableau&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.youtube.com/channel/UCGHj9f_nZd7tBEf9BOJ4aXA"><img src="https://img.shields.io/badge/Youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 ![https://github.com/juminstock](https://github.com/Juminstock/Juminstock/blob/main/Banner_socialNetworks.jpg)
 ## 🚀 I'm a JavaScript and Solidity developer
