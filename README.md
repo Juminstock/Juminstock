@@ -31,22 +31,22 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
   <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=juminstock&show_icons=true&locale=en" alt="juminstock" width="48%" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-------------------- 
- ## Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+ ## Languages: Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-
-
-
-
-
-
-## Technologies:
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+<h2 align="rigth">Languages: Backend</h2>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
+
+
+
+
+
+
+
+
+
 ## 🛠 Skills
 HTML5, CSS3, JavaScript, React.js, Node.js, Solidity, HardHat, Git and Github. Also, Linux, Figma, Discord, Telegram, Notion and Visual Studio Code.
 
