@@ -1,12 +1,21 @@
 <p align="center">
 <a href="https://github.com/Juminstock"><img src = "https://media4.giphy.com/media/l0MYO6VesS7Hc1uPm/200.webp?cid=ecf05e47uf9an12qckf1omljx40m8w7d3qz3vd4e3jn8mfac&rid=200.webp&ct=g" width = 200></a>
 </p>
-<h1 align=center><font size = 5>Hello world!<img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="60"></h1>
-  <img align='center' src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
-  <h2 align=center>I am Carlos Rodríguez, welcome to my personal repository.</h2>
+<h1 align=center><font size = 5>Hello world!, I'm Carlos Rodríguez<img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="60"></h1>
+  <img align='center' src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+  <h2 align=center><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm a JavaScript and Solidity developer</h2>
   <p align='center'>
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
   </p>
+  [![Personal Webpage](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juminstock.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juminstock)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juminstock)
+</br>
+  <p align="center">I work on the Frontend and I'm learning how to develop on the Backend. I am dedicated to creating webpages with dynamism and interactivity using JavaScript, as well as user interfaces with React.js. Also, I create smart contracts, DApps, DNFTs and protocolos. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of [**dotlabs()**](https://dotlabs-workshops-calendar.vercel.app/), a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
+
+When I am not working, I study, read, learn, teach, give talks, conduct classes and worshops, spread valuable information and contribute to the Web3 and Web2 development communities.</p>
+  
+  
   
   
   
@@ -20,9 +29,7 @@
 ![https://github.com/juminstock](https://github.com/Juminstock/Juminstock/blob/main/Banner_socialNetworks.jpg)
 ## 🚀 I'm a JavaScript and Solidity developer
 
-I work on the Frontend and I'm learning how to develop on the Backend. I am dedicated to creating webpages with dynamism and interactivity using JavaScript, as well as user interfaces with React.js. Also, I create smart contracts, DApps, DNFTs and protocolos. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of [**dotlabs()**](https://dotlabs-workshops-calendar.vercel.app/), a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
 
-When I am not working, I study, read, learn, teach, give talks, conduct classes and worshops, spread valuable information and contribute to the Web3 and Web2 development communities.
 
 ## Technologies:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
