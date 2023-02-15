@@ -38,18 +38,20 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![MongoDB]("https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white")
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Libraries & Framework :
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js]("https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white")
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Rest API](https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white")
+![Rest API](https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
  
  ### Tools & Platforms:
 ![VS Code](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
  
   ### Hoisting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -59,10 +61,11 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
  ### Version Control: 
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juminstock&show_icons=true&locale=en&layout=compact" alt="juminstock" /></p>
  
-## 🌟 GitHub Star:
-
-You can support my work by making a "⭐ Star" in the repository or by nominating me for a "GitHub Star". Thank you!
+ <h2 align="center"><img src="https://media4.giphy.com/media/pULj9CGmIcfuzXTPfp/200w.webp?cid=ecf05e47yk7744x530huebx62h5ygzsfdzkjyu8b8vwvbgjz&rid=200w.webp&ct=g" width="40"> GitHub Star:</h2>
+ 
+<p align="center">You can support my work by making a "⭐ Star" in the repository or by nominating me for a "GitHub Star". Thank you!</p>
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominate_to_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
@@ -96,8 +99,6 @@ You can support my work by making a "⭐ Star" in the repository or by nominatin
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Juminstock"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Juminstock" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juminstock&show_icons=true&locale=en&layout=compact" alt="juminstock" /></p>
 
 
 
