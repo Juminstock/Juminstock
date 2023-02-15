@@ -7,10 +7,15 @@
   <p align='center'>
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
   </p>
-  [![Personal Webpage](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juminstock.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juminstock)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juminstock)
-</br>
+ <a href="https://www.juminstock.com"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Personal Webpage"/></a>
+  <a href="https://www.linkedin.com/in/juminstock"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/juminstock"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  </br>
+                                           
+                                           
+
+
+
   <p align="center">I work on the Frontend and I'm learning how to develop on the Backend. I am dedicated to creating webpages with dynamism and interactivity using JavaScript, as well as user interfaces with React.js. Also, I create smart contracts, DApps, DNFTs and protocolos. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of [**dotlabs()**](https://dotlabs-workshops-calendar.vercel.app/), a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
 
 When I am not working, I study, read, learn, teach, give talks, conduct classes and worshops, spread valuable information and contribute to the Web3 and Web2 development communities.</p>
