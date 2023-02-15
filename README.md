@@ -11,9 +11,6 @@
     <strong>Connect with me:</strong><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="40">
  
  <a href="https://www.juminstock.com"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Personal Webpage"/></a>
-    <a href="https://github.com/juminstock" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
   <a href="https://www.linkedin.com/in/juminstock"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/juminstock"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
  <a href="mailto:juminstock@gmail.com">
