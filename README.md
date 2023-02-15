@@ -1,11 +1,12 @@
 <p align="center">
-<a href="https://github.com/Juminstock"><img src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width = 100> </a>
+<a href="https://github.com/Juminstock"><img src = "https://media4.giphy.com/media/26DoiqmYcxgFICb3G/200w.webp?cid=ecf05e47m39fqtroy6a1anuzgkjouglfpgercm3us8eskpua&rid=200w.webp&ct=g" width = 100> </a>
 </p>
 <h1 align=center><font size = 5>Hello there!, I'm Juminstock 👋.</h1><h2 align=center>My name is Carlos Rodríguez, but on internet, I'm Juminstock 🧑‍💻.</h2>
 <br>
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<a href="https://github.com/Juminstock"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
 
 
 ![https://github.com/juminstock](https://github.com/Juminstock/Juminstock/blob/main/Banner_socialNetworks.jpg)
