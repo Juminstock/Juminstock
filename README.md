@@ -43,11 +43,11 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Libraries & Framework:
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![RestAPI](https://img.shields.io/badge/restapi-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
  
  ### Tools & Platforms:
@@ -74,7 +74,7 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 
  <h2 align="center"><img src="https://media2.giphy.com/media/9W7R65ZNBt3uniBqab/200w.webp?cid=ecf05e47x7nw812925ineni8740d2x085njkdgozcxsgmhzf&rid=200w.webp&ct=s" width="40"> Support:</h2>
  
- <p align="center" ><a align="center" href="https://www.buymeacoffee.com/juminstock"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Pizza-Support_my_job-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010">BUY ME A PIZZA</a></p>
+ <p align="center" ><a align="center" href="https://www.buymeacoffee.com/juminstock"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Pizza-Support_my_job-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010"></a></p>
 <h2 align="center"><img src="https://media0.giphy.com/media/YKy1aOB2FlGAqa6tEx/200w.webp?cid=ecf05e47adru0iqbp30k0rfk2h26d2y2p2ax97lxywjjfqbb&rid=200w.webp&ct=s" width="40"> Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juminstock" height="30" width="40" /></a>
