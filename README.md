@@ -42,13 +42,13 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Libraries & Framework :
+### Libraries & Framework:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![RestAPI](https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![RestAPI](https://img.shields.io/badge/restapi-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
  
  ### Tools & Platforms:
 ![VS Code](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -66,16 +66,15 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
  
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juminstock&show_icons=true&locale=en&layout=compact" alt="juminstock" /></p>
  
- <h2 align="center"><img src="https://media4.giphy.com/media/pULj9CGmIcfuzXTPfp/200w.webp?cid=ecf05e47yk7744x530huebx62h5ygzsfdzkjyu8b8vwvbgjz&rid=200w.webp&ct=g" width="40"> GitHub Star:</h2>
+ <h2 align="center"><img src="https://media0.giphy.com/media/C4b6GwFKbYxK8/200w.webp?cid=ecf05e47h365p3h5rdv95egyzk087bgcwsrnfxwfiye4rh8s&rid=200w.webp&ct=s" width="40"> GitHub Star:</h2>
  
-<p align="center">You can support my work by making a "⭐ Star" in the repository or by nominating me for a "GitHub Star". Thank you!</p>
+<p align="center">You can support my job by making a "⭐ Star" in the repository or by nominating me for a "GitHub Star". Thank you!</p>
 
 <p align="center" ><a align="center" href="https://stars.github.com/nominate/"><img align="center" src="https://img.shields.io/badge/GitHub-Nominate_to_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"></a></p>
 
  <h2 align="center"><img src="https://media2.giphy.com/media/9W7R65ZNBt3uniBqab/200w.webp?cid=ecf05e47x7nw812925ineni8740d2x085njkdgozcxsgmhzf&rid=200w.webp&ct=s" width="40"> Support:</h2>
-
-[![BuyMeAPizza](https://img.shields.io/badge/Buy_Me_A_Pizza-Support_my_job-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/juminstock)
-
+ 
+ <p align="center" ><a align="center" href="https://www.buymeacoffee.com/juminstock"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Pizza-Support_my_job-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010">BUY ME A PIZZA</a></p>
 <h2 align="center"><img src="https://media0.giphy.com/media/YKy1aOB2FlGAqa6tEx/200w.webp?cid=ecf05e47adru0iqbp30k0rfk2h26d2y2p2ax97lxywjjfqbb&rid=200w.webp&ct=s" width="40"> Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juminstock" height="30" width="40" /></a>
@@ -85,5 +84,4 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 <a href="https://www.hackerrank.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juminstock" height="30" width="40" /></a>
 </p>
 <img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
-
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
