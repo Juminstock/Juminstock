@@ -18,7 +18,7 @@
   
 <p>I work on the Frontend and I'm learning how to develop on the Backend. I am dedicated to creating webpages with dynamism and interactivity using JavaScript, as well as user interfaces with React.js. Also, I create smart contracts, DApps, DNFTs and protocolos with Rust. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs-workshops-calendar.vercel.app/">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
 
-When I am not working, I study, read, learn, teach, give talks, conduct classes and worshops, spread valuable information and contribute to the Web3 and Web2 development communities. I love to help and share knowledge.</p>
+When I am not working, I study, read, learn, teach, give talks, conduct classes and worshops, spread valuable information and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a nerd who loves technology.</p>
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -39,8 +39,8 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Libraries & Framework :
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -48,7 +48,7 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Rest API](https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![RestAPI](https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
  
  ### Tools & Platforms:
 ![VS Code](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -70,25 +70,20 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
  
 <p align="center">You can support my work by making a "⭐ Star" in the repository or by nominating me for a "GitHub Star". Thank you!</p>
 
-<a align="center" href="https://stars.github.com/nominate/"><img align="center" src="https://img.shields.io/badge/GitHub-Nominate_to_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"></a>
+<p align="center" ><a align="center" href="https://stars.github.com/nominate/"><img align="center" src="https://img.shields.io/badge/GitHub-Nominate_to_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"></a></p>
 
-## 🤝 Support:
+ <h2 align="center"><img src="https://media2.giphy.com/media/9W7R65ZNBt3uniBqab/200w.webp?cid=ecf05e47x7nw812925ineni8740d2x085njkdgozcxsgmhzf&rid=200w.webp&ct=s" width="40"> Support:</h2>
 
 [![BuyMeAPizza](https://img.shields.io/badge/Buy_Me_A_Pizza-Support_my_job-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/juminstock)
 
-<h2 align="center"><img src="https://media3.giphy.com/media/WLvwhXFYe1eebzcYKp/200.webp?cid=ecf05e47uorm6gwoz3ypz46oewocctyp55nigb3qzyrwfiyx&rid=200.webp&ct=s" width="40"> Connect with me:</h3>
-<p align="left">
+<h2 align="center"><img src="https://media0.giphy.com/media/YKy1aOB2FlGAqa6tEx/200w.webp?cid=ecf05e47adru0iqbp30k0rfk2h26d2y2p2ax97lxywjjfqbb&rid=200w.webp&ct=s" width="40"> Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juminstock" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juminstock" height="30" width="40" /></a>
 <a href="https://instagram.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juminstock" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juminstock" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juminstock" height="30" width="40" /></a>
 </p>
-
-
-<div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=Ajay84sia&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
-
 <img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
