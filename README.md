@@ -3,7 +3,7 @@
 </p>
 <h1 align=center><font size = 5>Hello world!, I'm Carlos Rodríguez<img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="60"></h1>
   <img align='center' src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
-  <h2 align=center><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm a JavaScript and Rust developer</h2>
+  <h2 align=center><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm a web & Rust blockchain developer</h2>
   <p align='center'>
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
   </p>
@@ -16,7 +16,7 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
   
-<p>I work on the Frontend and I'm learning how to develop on the Backend. I am dedicated to creating webpages with dynamism and interactivity using JavaScript, as well as user interfaces with React.js. Also, I create smart contracts, DApps, DNFTs and protocolos with Rust. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs-workshops-calendar.vercel.app/">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
+<p>I am dedicated to creating interactive and dynamic web pages using HTML5, CSS3 and JavaScript. I create graphical interfaces and reactive components with React.js that allow effective interactions with users. Also, I create smart contracts, DApps, DNFTs and protocolos with Rust. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs-workshops calendar.vercel.app/">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
 
 When I am not working, I study, read, learn, teach, give talks, conduct classes and worshops, spread valuable information and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a nerd who loves technology.</p>
 
@@ -40,10 +40,8 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Libraries & Framework:
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
