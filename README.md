@@ -16,9 +16,9 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
   
-<p>I am dedicated to creating interactive and dynamic web pages using HTML5, CSS3 and JavaScript. I create graphical interfaces and reactive components with React.js that allow effective interactions with users. Also, I create smart contracts, DApps, DNFTs and protocolos with Rust. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs-workshops-calendar.vercel.app/">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. 
+<p>I am dedicated to creating interactive and dynamic web pages using HTML5, CSS3 and JavaScript. I create graphical interfaces and reactive components with React.js that allow effective interactions with users. Also, I create smart contracts, DApps, DNFTs and protocolos with Rust. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs-workshops-calendar.vercel.app/">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. By the way, all of our content is completely free for the entire community, learn with us 💜.
 
-When I am not working, I study, read, learn, teach, give talks, conduct classes and worshops, spread valuable information and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a nerd who loves technology.</p>
+When I am not working, I study, read, learn, teach, give talks, conduct classes and workshops, spread valuable information and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a nerd who loves technology.</p>
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,14 +45,10 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![RestAPI](https://img.shields.io/badge/restapi-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
  
  ### Tools & Platforms:
 ![VS Code](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
   ### Hoisting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
