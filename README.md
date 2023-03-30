@@ -16,7 +16,7 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
   
-<p>I am dedicated to creating interactive and dynamic web pages using HTML5, CSS3 and JavaScript. I create graphical interfaces and reactive components with React.js that allow effective interactions with users. Also, I create smart contracts, DApps, DNFTs and protocolos with Rust and Ink!. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs.academy">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. By the way, all of our content is completely free for the entire community, learn with us 💜.
+<p>I am dedicated to creating interactive and dynamic web pages using HTML5, CSS3 and JavaScript. I create graphical interfaces and reactive components with React.js that allow effective interactions with users. Also, I create smart contracts, DApps, DNFTs and protocolos with Rust and Ink! I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs.academy">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. By the way, all of our content is completely free for the entire community, learn with us 💜.
 
 When I am not working, I study, read, learn, teach, give talks, conduct classes and workshops, spread valuable information and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a nerd who loves technology.</p>
 
