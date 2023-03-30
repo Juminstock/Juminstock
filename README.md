@@ -20,7 +20,7 @@
 
 When I am not working, I study, read, learn, teach, give talks, conduct classes and workshops, spread valuable information and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a nerd who loves technology.</p>
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYyOGVhNGE2YzJhZTQzNGYwYmMyZTg4YzY3OGE4NzNjZjhjZTA1MiZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juminstock&label=Profile%20views&color=0e75b6&style=flat" alt="juminstock" /> </p>
