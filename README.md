@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Juminstock"><img src = "https://media4.giphy.com/media/l0MYO6VesS7Hc1uPm/200.webp?cid=ecf05e47uf9an12qckf1omljx40m8w7d3qz3vd4e3jn8mfac&rid=200.webp&ct=g" width = 200></a>
+<a href="https://github.com/Juminstock"><img src = "https://media4.giphy.com/media/bcKmIWkUMCjVm/200.webp?cid=ecf05e47wb8gmixnsquvw8rfs4dsxs9b2yh8h4yzua67prjg&rid=200.webp&ct=g" width = 300></a>
 </p>
 <h1 align=center><font size = 5>Hello world!, I'm Carlos Rodríguez<img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="60"></h1>
   <img align='center' src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
@@ -9,14 +9,14 @@
   </p>
   <p align="center">
     <strong>Reach me:</strong><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="40">
- <a href="https://www.juminstock.com"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Personal Webpage"/></a>
+ <a href="https://www.github.com/Juminstock"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Personal Webpage"/></a>
   <a href="https://www.linkedin.com/in/juminstock"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/juminstock"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
  <a href="mailto:juminstock@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
   
-<p>I am dedicated to creating interactive and dynamic web pages using HTML5, CSS3 and JavaScript. I create graphical interfaces and reactive components with React.js that allow effective interactions with users. Also, I create smart contracts, DApps, DNFTs and protocolos with Rust and Ink! I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs.academy">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. By the way, all of our content is completely free for the entire community, learn with us 💜.
+<p>I create smart contracts, DApps, DNFTs and protocolos with Rust and Ink! I work with teams in the development of web3 and crypto projects. Most of my time is spent teaching and coordinating the <a href="https://dotlabs.academy">dotlabs()</a>  company. Also, I create webpages with HTML5, CSS3 and JavaScript with React.js. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs.academy">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. By the way, all of our content is completely free for the entire community, learn with us 💜.
 
 When I am not working, I study, read, learn, teach, give talks, conduct classes and workshops, spread valuable information and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a nerd who loves technology.</p>
 
@@ -33,7 +33,7 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center"><img src="https://media1.giphy.com/media/l3q2uGtWN3yawwBzO/200w.webp?cid=ecf05e47znlpieiynswn21akhuf2dnme4szf43okee96ey44&rid=200w.webp&ct=g" width="40"> Technologies:</h2>  
+<h2 align="center"><img src="https://media2.giphy.com/media/DYMk2THiOU0akjDCQ9/200w.webp?cid=ecf05e470bccfgy9t872wdzbr0qx6ce5myj1t3g85bq0ff3k&rid=200w.webp&ct=g" width="60"> Technologies:</h2>  
 
 ## Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,7 +44,6 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 </a>
 
 ### Libraries & Framework:
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
  
@@ -55,7 +54,6 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
   ### Hoisting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
  
  ### Version Control: 
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
