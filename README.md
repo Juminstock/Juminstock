@@ -16,9 +16,9 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
   
-<p>I create smart contracts, DApps, DNFTs and protocolos with Rust and Ink! I work with teams in the development of web3 and crypto projects. Most of my time is spent teaching and coordinating the <a href="https://dotlabs.academy">dotlabs()</a>  company. Also, I create webpages with HTML5, CSS3 and JavaScript with React.js. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs.academy">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. By the way, all of our content is completely free for the entire community, learn with us 💜.
+<p>I create smart contracts, DApps, DNFTs and protocols with Rust and Ink! I work with teams in the development of web3 and crypto projects. Most of my time is spent teaching and coordinating the <a href="https://dotlabs.academy">dotlabs()</a>  company. Also, I create webpages with HTML5, CSS3 and JavaScript with React.js. I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs.academy">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. By the way, all of our content is completely free for the entire community, learn with us 💜.
 
-When I am not working, I study, read, learn, teach, give talks, conduct classes and workshops, spread valuable information and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a nerd who loves technology.</p>
+When I'm not working, I study, read, learn, teach, give talks, conduct classes and workshops, share valuable information, and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a tech nerd who loves technology. Let's connect. Don't hesitate to write to me or follow us on social media.</p>
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYyOGVhNGE2YzJhZTQzNGYwYmMyZTg4YzY3OGE4NzNjZjhjZTA1MiZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -33,7 +33,7 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center"><img src="https://media2.giphy.com/media/DYMk2THiOU0akjDCQ9/200w.webp?cid=ecf05e470bccfgy9t872wdzbr0qx6ce5myj1t3g85bq0ff3k&rid=200w.webp&ct=g" width="60"> Technologies:</h2>  
+<h2 align="center"><img src="https://media2.giphy.com/media/DYMk2THiOU0akjDCQ9/200w.webp?cid=ecf05e470bccfgy9t872wdzbr0qx6ce5myj1t3g85bq0ff3k&rid=200w.webp&ct=g" width="60"> <br/>Technologies:</h2>  
 
 ## Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -74,8 +74,6 @@ When I am not working, I study, read, learn, teach, give talks, conduct classes 
 <a href="https://twitter.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juminstock" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juminstock" height="30" width="40" /></a>
 <a href="https://instagram.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juminstock" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juminstock" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juminstock" height="30" width="40" /></a>
 </p>
 <img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
