@@ -16,7 +16,7 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
   
-<p>I'm learning to create smart contracts, DApps, DNFTs and protocols with Rust and Ink! I work with teams in the development of web3 and crypto projects. Most of my time is spent teaching and coordinating the <a href="https://dotlabs.academy">dotlabs()</a> fundation, I am the foundation's COO.
+<p>I'm learning to create smart contracts, DApps, DNFTs and protocols with Rust and Ink! I work with teams in the development of web3 and crypto projects. Most of my time is spent teaching and coordinating the <a href="https://dotlabs.academy">dotlabs()</a> fundation, where I serve as the COO.
   
 I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder and COO at <a href="https://dotlabs.academy">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our mission is to provide quality educational resources, foster collaboration and knowledge sharing, and accelerate the professional growth of our community members. learn with us 💜.
 
