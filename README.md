@@ -16,9 +16,9 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
   
-<p>I'm learning to create smart contracts, DApps, DNFTs and protocols with Rust and Ink! I work with teams in the development of web3 and crypto projects. Most of my time is spent teaching and coordinating the <a href="https://dotlabs.academy">dotlabs()</a> fundation. 
+<p>I'm learning to create smart contracts, DApps, DNFTs and protocols with Rust and Ink! I work with teams in the development of web3 and crypto projects. Most of my time is spent teaching and coordinating the <a href="https://dotlabs.academy">dotlabs()</a> fundation, I am the foundation's COO.
   
-I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder of <a href="https://dotlabs.academy">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our goal is to increase the adoption of such technology through teaching. By the way, all of our content is completely free for the entire community, learn with us 💜.
+I am an eternal student, curious, collaborator, Blockchain and cryptographic enthusiast. I'm Co-Founder and COO at <a href="https://dotlabs.academy">dotlabs()</a>, a community of web developers passionate about Blockchain technology. Our mission is to provide quality educational resources, foster collaboration and knowledge sharing, and accelerate the professional growth of our community members. learn with us 💜.
 
 When I'm not working, I study, read, learn, teach, give talks, conduct classes and workshops, share valuable information, and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a tech nerd who loves technology. Let's connect. Don't hesitate to write to me or follow us on social media, it's free and amazing.</p>
 
