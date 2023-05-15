@@ -35,7 +35,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center"><img src="https://media2.giphy.com/media/DYMk2THiOU0akjDCQ9/200w.webp?cid=ecf05e470bccfgy9t872wdzbr0qx6ce5myj1t3g85bq0ff3k&rid=200w.webp&ct=g" width="100"> <br/>Technologies:</h2>  
+<h2 align="center"><img src="https://media3.giphy.com/media/KGhpQ5NMoWKQurlHwI/200w.webp?cid=ecf05e47cx9li6cscy4w9oegxqo9k8zkgy3dci5m2g0zmn12&ep=v1_gifs_search&rid=200w.webp&ct=g" width="100"> <br/>Technologies:</h2>  
 
 ## Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
