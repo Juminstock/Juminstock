@@ -38,7 +38,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 <h2 align="center"><img src="https://media3.giphy.com/media/KGhpQ5NMoWKQurlHwI/200w.webp?cid=ecf05e47cx9li6cscy4w9oegxqo9k8zkgy3dci5m2g0zmn12&ep=v1_gifs_search&rid=200w.webp&ct=g" width="100"> <br/>Technologies:</h2>  
 
 ## Languages:
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust) <br>
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 
 ### Libraries & Framework:
@@ -47,7 +47,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
  ### Tools & Platforms:
 ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-000000?style=for-the-badge&logo=webassembly)
-![Visualcode](https://img.shields.io/badge/Visual%studio%code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Visualcode](https://img.shields.io/badge/Visual%10studio%10code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai)
 ![Terminal](https://img.shields.io/badge/Terminal-2154E5?style=for-the-badge&logo=gnometerminal)
