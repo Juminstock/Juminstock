@@ -22,7 +22,7 @@ I am an eternal student, curious, collaborator, Blockchain and cryptographic ent
 
 When I'm not working, I study, read, learn, teach, give talks, conduct classes and workshops, share valuable information, and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a tech nerd who loves technology. Let's connect. Don't hesitate to write to me or follow us on social media, it's free and amazing.</p>
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYyOGVhNGE2YzJhZTQzNGYwYmMyZTg4YzY3OGE4NzNjZjhjZTA1MiZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJjOTIzNjVkNjY5OTM0NjIzMTE3ZjI4ZjYyZDU1MjY1ZTE1MWI0NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juminstock&label=Profile%20views&color=0e75b6&style=flat" alt="juminstock" /> </p>
