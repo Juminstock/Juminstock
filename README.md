@@ -38,12 +38,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 <h2 align="center"><img src="https://media3.giphy.com/media/KGhpQ5NMoWKQurlHwI/200w.webp?cid=ecf05e47cx9li6cscy4w9oegxqo9k8zkgy3dci5m2g0zmn12&ep=v1_gifs_search&rid=200w.webp&ct=g" width="100"> <br/>Technologies:</h2>  
 
 ## Languages:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
-</a>
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust)
 
 ### Libraries & Framework:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
