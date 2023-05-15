@@ -39,13 +39,17 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 
 ## Languages:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 
 ### Libraries & Framework:
 ![Substrate](https://img.shields.io/badge/Substrate-20C43B?style=for-the-badge&logo=paritysubstrate)
  
  ### Tools & Platforms:
 ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-000000?style=for-the-badge&logo=webassembly)
+![Visualcode](https://img.shields.io/badge/Visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai)
 
   ### Hoisting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
