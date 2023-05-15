@@ -46,10 +46,10 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 
 ### Tools & Platforms:
 ![Visualcode](https://img.shields.io/badge/Visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Terminal](https://img.shields.io/badge/Terminal-2154E5?style=for-the-badge&logo=gnometerminal)
-![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-000000?style=for-the-badge&logo=webassembly)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Terminal](https://img.shields.io/badge/Terminal-2154E5?style=for-the-badge&logo=gnometerminal)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-000000?style=for-the-badge&logo=webassembly)
+![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai)
 
 ### Hoisting
