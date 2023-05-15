@@ -42,7 +42,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 
 ### Libraries & Framework:
-![Substrate](https://img.shields.io/badge/Substrate-20C43B?style=for-the-badge&logo=paritysubstrate)
+![Substrate](https://img.shields.io/badge/Substrate-000000?style=for-the-badge&logo=paritysubstrate)
 
 ### Tools & Platforms:
 ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot)
@@ -54,7 +54,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 
 ### Hoisting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ### Version Control: 
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
