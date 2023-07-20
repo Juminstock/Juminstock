@@ -16,7 +16,9 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
   
-<p>I'm a nerd developer.
+<p>I am a rustacean 🦀,
+
+I work on blockchain with Rust and Ink!, specifically for the Polkadot and Astar Network ecosystems. Additionally, I am learning to develop on the frontend with JavaScript, using its React and Next frameworks.
   
 When I'm not working, I study, read, learn, teach, give talks, conduct classes and workshops, share valuable information, and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a tech nerd who loves technology. Let's connect. Don't hesitate to write to me or follow us on social media, it's free and amazing.</p>
 
