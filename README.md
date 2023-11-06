@@ -18,7 +18,7 @@
   
 <p>I am a rustacean 🦀,
 
-I work on blockchain with Rust🦀 and Ink!🦑, specifically for the Polkadot and Astar Network ecosystems. Additionally, I am learning to develop on the frontend with JavaScript, using its React and Next frameworks. Also, I'm an Astar technical ambassador ⚡.
+I work on blockchain with Rust🦀 and Ink!🦑, specifically for the Polkadot and Astar Network ecosystems. Additionally, I am learning to develop on the frontend with JavaScript, using its Vue.js and Nuxt.js frameworks. Also, I'm an Astar technical ambassador ⚡.
   
 When I'm not working, I study, read, learn, teach, give talks, conduct classes and workshops, share valuable information, and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a tech nerd who loves technology. Let's connect. Don't hesitate to write to me or follow us on social media, it's free and amazing.</p>
 
