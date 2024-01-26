@@ -45,6 +45,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 ### Libraries & Frameworks:
 ![Substrate](https://img.shields.io/badge/Substrate-000000?style=for-the-badge&logo=paritysubstrate)
 ![React.js]()
+![Next.js]()
 
 ### Tools & Platforms:
 ![Visualcode](https://img.shields.io/badge/Visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode)
