@@ -39,7 +39,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 ### Languages:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![]
+![JavaScript]
 
 ### Libraries & Frameworks:
 ![Substrate](https://img.shields.io/badge/Substrate-000000?style=for-the-badge&logo=paritysubstrate)
