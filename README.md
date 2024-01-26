@@ -39,13 +39,13 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 ### Languages:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Libraries & Frameworks:
 ![Substrate](https://img.shields.io/badge/Substrate-000000?style=for-the-badge&logo=paritysubstrate)
-![React.js]()
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js]()
 
 ### Tools & Platforms:
