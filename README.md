@@ -85,3 +85,4 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 <a href="https://instagram.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juminstock" height="30" width="40" /></a>
 </p>
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
