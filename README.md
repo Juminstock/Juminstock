@@ -16,7 +16,7 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
   
-<p>I am a <i>beyond</i> growing devRel 🧑🏻‍💻,
+<p>I'm a <i>beyond</i> growing devRel 🧑🏻‍💻,
 
 I work on blockchain with Rust🦀, Ink!🦑 and Solidity, specifically for the Polkadot and Astar Network ecosystems. Additionally, I am learning to develop on the frontend with JavaScript, using its react.js and Next.js frameworks. Also, I'm an Astar & Polkadot technical ambassador ⚡.
   
