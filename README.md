@@ -18,7 +18,7 @@
   
 <p>I'm a <i>beyond</i> growing devRel 🧑🏻‍💻,
 
-I work on blockchain with Rust🦀, Ink!🦑 and Solidity, specifically for the Polkadot and Astar Network ecosystems. Additionally, I am learning to develop on the frontend with JavaScript, using its react.js and Next.js frameworks. Also, I'm an Astar & Polkadot technical ambassador ⚡.
+I am a blockchain developer with strong knowledge in sales, development, product leadership and great communication skills which allow me to understand very well the needs of companies and translate them into techniques that lead to the success of developers using the products of those companies.
   
 When I'm not working, I study, read, learn, teach, give talks, conduct classes and workshops, share valuable information, and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a tech nerd who loves technology. Let's connect. Don't hesitate to write to me or follow us on social media, it's free and amazing.</p>
 
