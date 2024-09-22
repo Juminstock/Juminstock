@@ -24,12 +24,9 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juminstock&label=Profile%20views&color=0e75b6&style=flat" alt="juminstock" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=juminstock&label=Profile%20views&color=000000&style=for-the-badge" alt="juminstock" /> </p>
 <div>
-  <img align="left" src="https://streak-stats.demolab.com?user=juminstock&theme=react&date_format=j%20M%5B%20Y%5D" width="49%"/>
-  <br/>
-  <br/>
-  <br/>
+  <img align="left" src="https://streak-stats.demolab.com?user=juminstock&theme=react&date_format=j%20M%5B%20Y%5D" width="50%"/>
   <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=juminstock&show_icons=true&locale=en" alt="juminstock" width="48%" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -38,11 +35,11 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 
 ### Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=Solidity)
+![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=%234396ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript)
+![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=Solidity)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=markdown)
 
 ### Libraries & Frameworks:
 ![Substrate](https://img.shields.io/badge/Substrate-000000?style=for-the-badge&logo=paritysubstrate)
