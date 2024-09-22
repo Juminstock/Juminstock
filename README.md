@@ -48,16 +48,15 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 ![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
 
 ### Tools & Platforms:
-![Visualcode](https://img.shields.io/badge/Visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Terminal](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-000000?style=for-the-badge&logo=webassembly)
-![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![MacOS](https://img.shields.io/badge/mac%20os-black?style=for-the-badge&logo=apple&logoColor=apple)
+![Terminal](https://img.shields.io/badge/iTerm2-black?style=for-the-badge&logo=iterm2&logoColor=%2338cd3f)
+![Ethereum](https://img.shields.io/badge/Ethereum-black?style=for-the-badge&logo=Ethereum&logoColor=ethereum)
+![Polkadot](https://img.shields.io/badge/Polkadot-black?style=for-the-badge&logo=polkadot&logoColor=E6007A)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-black?style=for-the-badge&logo=openai)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white&logoColor=F24E1E)
+![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=notion)
+![Optimism](https://img.shields.io/badge/optimism-black?style=for-the-badge&logo=optimism&logoColor=%23FF0420)
 
 ### Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
