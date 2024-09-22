@@ -2,7 +2,6 @@
 <a href="https://github.com/Juminstock"><img src = "https://media4.giphy.com/media/bcKmIWkUMCjVm/200.webp?cid=ecf05e47wb8gmixnsquvw8rfs4dsxs9b2yh8h4yzua67prjg&rid=200.webp&ct=g" width = 300></a>
 </p>
 <h1 align=center><font size = 5>Hello, world! I'm Carlos Rodríguez<img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="60"></h1>
-  <img align='center' src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
   <h2 align=center><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm a Humanoid looking to be a Human</h2>
   <p align='center'>
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
@@ -15,6 +14,8 @@
  <a href="mailto:juminstock@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
+
+  <img align='center' src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
   
 <p>I'm a <i>beyond</i> growing Developer Relations 🧑🏻‍💻,
 
