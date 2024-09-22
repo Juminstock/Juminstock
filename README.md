@@ -66,8 +66,6 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 ### Version Control: 
  ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032)
  
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juminstock&show_icons=true&locale=en&layout=compact" alt="juminstock" /></p>
- 
  <h2 align="center"><img src="https://media0.giphy.com/media/C4b6GwFKbYxK8/200w.webp?cid=ecf05e47h365p3h5rdv95egyzk087bgcwsrnfxwfiye4rh8s&rid=200w.webp&ct=s" width="40"> GitHub Star:</h2>
  
 <p align="center">You can support my job by making a "⭐ Star" in the repository or by nominating me for a "GitHub Star". Thank you!</p>
