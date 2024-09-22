@@ -16,7 +16,7 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </p></br>
   
-<p>I'm a <i>beyond</i> growing devRel 🧑🏻‍💻,
+<p>I'm a <i>beyond</i> growing Developer Relations 🧑🏻‍💻,
 
 I'm learning Solidity and EVM. I'm also studying product design, frontend development with JavaScript and its frameworks, React and Next.js, and building full-stack blockchain projects.
   
