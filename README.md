@@ -74,7 +74,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 
  <h2 align="center">Support:</h2>
  
- <p align="center" ><img align="center" src="https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon"></a></p>
+ <p align="center" ><a align="center" href="https://www.patreon.com/juminstock"><img align="center" src="https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon"></a></p>
 <h2 align="center"><img src="https://media0.giphy.com/media/YKy1aOB2FlGAqa6tEx/200w.webp?cid=ecf05e47adru0iqbp30k0rfk2h26d2y2p2ax97lxywjjfqbb&rid=200w.webp&ct=s" width="40"> Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/juminstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juminstock" height="30" width="40" /></a>
