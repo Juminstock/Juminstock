@@ -13,9 +13,9 @@
   <a href="https://twitter.com/juminstock"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
  <a href="mailto:juminstock@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </p></br>
 
   <img align='center' src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+  </p></br>
   
 <p>I'm a <i>beyond</i> growing Developer Relations 🧑🏻‍💻,
 
