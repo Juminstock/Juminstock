@@ -79,7 +79,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 <h2 align="center">Connect with me:</h3>
 <div align="center">
   <p><a href="https://x.com/juminstock"><img src="https://img.shields.io/badge/X-black?style=social&logo=x"></a></p> 
-  <p><a href="https://www.instagram.com/juminstock"><img src="https://img.shields.io/badge/Instagram-black?style=social&logo=instagram"></a></p>
   <p><a href="https://www.linkedin.com/in/juminstock"><img src="https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin"></a></p>
+  <p><a href="https://www.instagram.com/juminstock"><img src="https://img.shields.io/badge/Instagram-black?style=social&logo=instagram"></a></p>
 </div>
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
