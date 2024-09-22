@@ -35,15 +35,15 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 
 ### Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=%234396ff)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=%234396ff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript&logoColor=%234396ff)
 ![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=Solidity)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=markdown)
+![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=%2338cd3f)
 
 ### Libraries & Frameworks:
-![Substrate](https://img.shields.io/badge/Substrate-000000?style=for-the-badge&logo=paritysubstrate)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
 
 ### Tools & Platforms:
 ![Visualcode](https://img.shields.io/badge/Visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode)
