@@ -18,8 +18,6 @@
   
 <p>I'm a <i>beyond</i> growing devRel 🧑🏻‍💻,
 
-I am a blockchain builder with strong knowledge in sales, development, product leadership and great communication skills which allow me to understand very well the needs of companies and translate them into techniques that lead to the success of developers using the products of those companies.
-
 On the technical side, I am a blockchain builder with experience building decentralized applications with Solidity🔗 for the Astar Network and Polkadot ecosystems. I also build the entire project infrastructure, from the UI/UX and backend to the documentation and business model 💸. My favorite area is the design ⭐️.
   
 When I'm not working, I study, read, learn, teach, give talks, conduct classes and workshops, share valuable information, and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a tech nerd who loves technology. Let's connect. Don't hesitate to write to me or follow us on social media, it's free and amazing.</p>
