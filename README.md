@@ -45,6 +45,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 ![React](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)
 ![Next](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
 ![Hardhat](https://img.shields.io/badge/hardhat-black?style=for-the-badge&logo=handshake_protocol&logoColor=f3e42b)
+![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
 
 ### Tools & Platforms:
 ![Visualcode](https://img.shields.io/badge/Visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode)
