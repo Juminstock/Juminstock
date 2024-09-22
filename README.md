@@ -58,12 +58,12 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 ![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=notion)
 ![Optimism](https://img.shields.io/badge/optimism-black?style=for-the-badge&logo=optimism&logoColor=%23FF0420)
 
-### Hosting
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-000000?style=for-the-badge&logo=github&logoColor=white)
+### Hosting:
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=vercel)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-black?style=for-the-badge&logo=github&logoColor=github)
 
 ### Version Control: 
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032)
  
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juminstock&show_icons=true&locale=en&layout=compact" alt="juminstock" /></p>
  
