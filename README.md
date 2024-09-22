@@ -26,7 +26,7 @@ When I'm not working, I study, read, learn, teach, give talks, conduct classes a
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juminstock&label=Profile%20views&color=000000&style=for-the-badge" alt="juminstock" /> </p>
 <div>
-  <img align="left" src="https://streak-stats.demolab.com?user=juminstock&theme=react&date_format=j%20M%5B%20Y%5D" width="45%"/>
+  <img align="left" src="https://streak-stats.demolab.com?user=juminstock&theme=react&date_format=j%20M%5B%20Y%5D" width="47%"/>
   <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=juminstock&show_icons=true&locale=en" alt="juminstock" width="48%" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
