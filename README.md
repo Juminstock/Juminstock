@@ -19,7 +19,7 @@
   
 <p>I'm a <i>beyond</i> growing Developer Relations 🧑🏻‍💻,
 
-I'm learning Solidity and EVM. I'm also studying product design, frontend development with JavaScript and its frameworks, React and Next.js, and building full-stack blockchain projects.
+I'm a Developer Relations with technical knowledge in web development with JavaScript, TypeScript and React.js (together with Next.js), I also have experience as Technical Writer with Docusaurus, Astro and Mintlify, I apply UX and product design techniques. Currently my main learning focus is Artificial Intelligence, Machine Learning and advanced learning models.
   
 When I'm not working, I study, read, learn, teach, give talks, conduct classes and workshops, share valuable information, and contribute to the Web3 and Web2 development communities. I love helping and sharing knowledge. I'm a tech nerd who loves technology. Let's connect. Don't hesitate to write to me or follow us on social media, it's free and amazing.</p>
 
