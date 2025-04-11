@@ -1,6 +1,4 @@
-<p align="center">
-<a href="https://github.com/Juminstock"><img src = "https://media4.giphy.com/media/bcKmIWkUMCjVm/200.webp?cid=ecf05e47wb8gmixnsquvw8rfs4dsxs9b2yh8h4yzua67prjg&rid=200.webp&ct=g" width = 300></a>
-</p>
+![banner-social-networks](https://github.com/user-attachments/assets/65294215-b829-4ac9-8d9c-525e799ae9d6)
 <h1 align=center><font size = 5>Hello, world! I'm Carlos Rodríguez<img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="60"></h1>
   <h2 align=center><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm a Developer Relations and Web3 Dev</h2>
   <p align='center'>
